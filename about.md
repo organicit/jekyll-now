@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am an entity on the Internet.  I have been here since 1992 in some way shape or form.  Recently I have been lurking around Azure, and now the Amazon, soon to be 10^100.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+I was the founder of the Northern California PowerShell User Group in San Francisco.  These days I help organize the [Sacramento Docker](https://www.meetup.com/Docker-Sacramento/) User Group.  I have a secret facination with the Go programming language, and the Kubernetes ecosystem.  I also love Python.
